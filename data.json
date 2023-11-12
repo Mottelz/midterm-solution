@@ -1,0 +1,152 @@
+[
+  {
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "rating": 4.9,
+    "publisher": "Nintendo",
+    "year_published": 2017
+  },
+  {
+    "title": "Super Mario Odyssey",
+    "rating": 4.8,
+    "publisher": "Nintendo",
+    "year_published": 2017
+  },
+  {
+    "title": "Red Dead Redemption 2",
+    "rating": 4.7,
+    "publisher": "Rockstar Games",
+    "year_published": 2018
+  },
+  {
+    "title": "Grand Theft Auto V",
+    "rating": 4.7,
+    "publisher": "Rockstar Games",
+    "year_published": 2013
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt",
+    "rating": 4.7,
+    "publisher": "CD Projekt Red",
+    "year_published": 2015
+  },
+  {
+    "title": "God of War",
+    "rating": 4.7,
+    "publisher": "Sony Interactive Entertainment",
+    "year_published": 2018
+  },
+  {
+    "title": "Uncharted 4: A Thief's End",
+    "rating": 4.7,
+    "publisher": "Sony Interactive Entertainment",
+    "year_published": 2016
+  },
+  {
+    "title": "Bloodborne",
+    "rating": 4.7,
+    "publisher": "Sony Interactive Entertainment",
+    "year_published": 2015
+  },
+  {
+    "title": "Horizon Zero Dawn",
+    "rating": 4.7,
+    "publisher": "Sony Interactive Entertainment",
+    "year_published": 2017
+  },
+  {
+    "title": "The Last of Us Part II",
+    "rating": 4.6,
+    "publisher": "Sony Interactive Entertainment",
+    "year_published": 2020
+  },
+  {
+    "title": "Persona 5",
+    "rating": 4.6,
+    "publisher": "Atlus",
+    "year_published": 2016
+  },
+  {
+    "title": "Dark Souls III",
+    "rating": 4.6,
+    "publisher": "Bandai Namco Entertainment",
+    "year_published": 2016
+  },
+  {
+    "title": "Metal Gear Solid V: The Phantom Pain",
+    "rating": 4.6,
+    "publisher": "Konami",
+    "year_published": 2015
+  },
+  {
+    "title": "Overwatch",
+    "rating": 4.6,
+    "publisher": "Blizzard Entertainment",
+    "year_published": 2016
+  },
+  {
+    "title": "Fortnite",
+    "rating": 4.5,
+    "publisher": "Epic Games",
+    "year_published": 2017
+  },
+  {
+    "title": "Minecraft",
+    "rating": 4.5,
+    "publisher": "Mojang Studios",
+    "year_published": 2011
+  },
+  {
+    "title": "Fallout 4",
+    "rating": 4.5,
+    "publisher": "Bethesda Softworks",
+    "year_published": 2015
+  },
+  {
+    "title": "Skyrim",
+    "rating": 4.5,
+    "publisher": "Bethesda Softworks",
+    "year_published": 2011
+  },
+  {
+    "title": "Portal 2",
+    "rating": 4.5,
+    "publisher": "Valve Corporation",
+    "year_published": 2011
+  },
+  {
+    "title": "Half-Life 2",
+    "rating": 4.5,
+    "publisher": "Valve Corporation",
+    "year_published": 2004
+  },
+  {
+    "title": "Counter-Strike: Global Offensive",
+    "rating": 4.5,
+    "publisher": "Valve Corporation",
+    "year_published": 2012
+  },
+  {
+    "title": "Team Fortress 2",
+    "rating": 4.5,
+    "publisher": "Valve Corporation",
+    "year_published": 2007
+  },
+  {
+    "title": "Left 4 Dead 2",
+    "rating": 4.5,
+    "publisher": "Valve Corporation",
+    "year_published": 2009
+  },
+  {
+    "title": "Doom Eternal",
+    "rating": 4.5,
+    "publisher": "Bethesda Softworks",
+    "year_published": 2020
+  },
+  {
+    "title": "Hades",
+    "rating": 4.5,
+    "publisher": "Supergiant Games",
+    "year_published": 2020
+  }
+]

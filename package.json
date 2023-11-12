@@ -1,0 +1,14 @@
+{
+  "name": "empty-express",
+  "version": "1.0.0",
+  "description": "an empty express project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm index.js"
+  },
+  "author": "YOUR NAME HERE",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
