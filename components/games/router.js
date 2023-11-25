@@ -1,19 +1,19 @@
 const router = require('express').Router();
-const GameController = require('./index');
+const gameController = require('./index');
 
 router.get('/games/all', async (req, res) => {
-    const games = await GameController.getAllGames();
+    const games = await gameController.getAllGames();
     res.json(games);
 });
 
 router.get('/games/game/:id', async (req, res) => {
     const id = req.params.id;
-    const game = await GameController.getGameById(id);
+    const game = await gameController.getGameById(id);
     res.json(game);
 });
 
 router.get('/games/top', async (req, res) => {
-    const game = await GameController.getHighestRatedGame();
+    const game = await gameController.getHighestRatedGame();
     res.json(game);
 });
 

@@ -1,0 +1,252 @@
+[
+    {
+        "gameId": 0,
+        "rating": 4.3,
+        "review": "Great game! Highly recommended."
+    },
+    {
+        "gameId": 1,
+        "rating": 3.8,
+        "review": "Decent game. Could have been better."
+    },
+    {
+        "gameId": 2,
+        "rating": 4.7,
+        "review": "Amazing game! Must play!"
+    },
+    {
+        "gameId": 3,
+        "rating": 4.1,
+        "review": "Solid game. Enjoyed it."
+    },
+    {
+        "gameId": 4,
+        "rating": 3.5,
+        "review": "Average game. Nothing special."
+    },
+    {
+        "gameId": 5,
+        "rating": 4.9,
+        "review": "Incredible game! Loved every minute of it."
+    },
+    {
+        "gameId": 6,
+        "rating": 3.2,
+        "review": "Mediocre game. Not worth the hype."
+    },
+    {
+        "gameId": 7,
+        "rating": 4.4,
+        "review": "Fun game. Would recommend."
+    },
+    {
+        "gameId": 8,
+        "rating": 4.6,
+        "review": "Fantastic game! Worth every penny."
+    },
+    {
+        "gameId": 9,
+        "rating": 3.9,
+        "review": "Good game. Enjoyed the storyline."
+    },
+    {
+        "gameId": 10,
+        "rating": 4.5,
+        "review": "Great game! Highly recommended."
+    },
+    {
+        "gameId": 11,
+        "rating": 3.7,
+        "review": "Decent game. Could have been better."
+    },
+    {
+        "gameId": 12,
+        "rating": 4.8,
+        "review": "Amazing game! Must play!"
+    },
+    {
+        "gameId": 13,
+        "rating": 4.2,
+        "review": "Solid game. Enjoyed it."
+    },
+    {
+        "gameId": 14,
+        "rating": 3.6,
+        "review": "Average game. Nothing special."
+    },
+    {
+        "gameId": 15,
+        "rating": 4.9,
+        "review": "Incredible game! Loved every minute of it."
+    },
+    {
+        "gameId": 16,
+        "rating": 3.1,
+        "review": "Mediocre game. Not worth the hype."
+    },
+    {
+        "gameId": 17,
+        "rating": 4.3,
+        "review": "Fun game. Would recommend."
+    },
+    {
+        "gameId": 18,
+        "rating": 4.7,
+        "review": "Fantastic game! Worth every penny."
+    },
+    {
+        "gameId": 19,
+        "rating": 4.0,
+        "review": "Good game. Enjoyed the storyline."
+    },
+    {
+        "gameId": 20,
+        "rating": 4.6,
+        "review": "Great game! Highly recommended."
+    },
+    {
+        "gameId": 21,
+        "rating": 3.5,
+        "review": "Decent game. Could have been better."
+    },
+    {
+        "gameId": 22,
+        "rating": 4.9,
+        "review": "Amazing game! Must play!"
+    },
+    {
+        "gameId": 23,
+        "rating": 4.1,
+        "review": "Solid game. Enjoyed it."
+    },
+    {
+        "gameId": 24,
+        "rating": 3.4,
+        "review": "Average game. Nothing special."
+    },
+    {
+        "gameId": 0,
+        "rating": 4.8,
+        "review": "Incredible game! Loved every minute of it."
+    },
+    {
+        "gameId": 1,
+        "rating": 3.3,
+        "review": "Mediocre game. Not worth the hype."
+    },
+    {
+        "gameId": 2,
+        "rating": 4.2,
+        "review": "Fun game. Would recommend."
+    },
+    {
+        "gameId": 3,
+        "rating": 4.5,
+        "review": "Fantastic game! Worth every penny."
+    },
+    {
+        "gameId": 4,
+        "rating": 3.7,
+        "review": "Good game. Enjoyed the storyline."
+    },
+    {
+        "gameId": 5,
+        "rating": 4.9,
+        "review": "Great game! Highly recommended."
+    },
+    {
+        "gameId": 6,
+        "rating": 3.6,
+        "review": "Decent game. Could have been better."
+    },
+    {
+        "gameId": 7,
+        "rating": 4.8,
+        "review": "Amazing game! Must play!"
+    },
+    {
+        "gameId": 8,
+        "rating": 4.0,
+        "review": "Solid game. Enjoyed it."
+    },
+    {
+        "gameId": 9,
+        "rating": 3.5,
+        "review": "Average game. Nothing special."
+    },
+    {
+        "gameId": 10,
+        "rating": 4.9,
+        "review": "Incredible game! Loved every minute of it."
+    },
+    {
+        "gameId": 11,
+        "rating": 3.2,
+        "review": "Mediocre game. Not worth the hype."
+    },
+    {
+        "gameId": 12,
+        "rating": 4.3,
+        "review": "Fun game. Would recommend."
+    },
+    {
+        "gameId": 13,
+        "rating": 4.7,
+        "review": "Fantastic game! Worth every penny."
+    },
+    {
+        "gameId": 14,
+        "rating": 4.1,
+        "review": "Good game. Enjoyed the storyline."
+    },
+    {
+        "gameId": 15,
+        "rating": 4.6,
+        "review": "Great game! Highly recommended."
+    },
+    {
+        "gameId": 16,
+        "rating": 3.5,
+        "review": "Decent game. Could have been better."
+    },
+    {
+        "gameId": 17,
+        "rating": 4.9,
+        "review": "Amazing game! Must play!"
+    },
+    {
+        "gameId": 18,
+        "rating": 4.2,
+        "review": "Solid game. Enjoyed it."
+    },
+    {
+        "gameId": 19,
+        "rating": 3.6,
+        "review": "Average game. Nothing special."
+    },
+    {
+        "gameId": 20,
+        "rating": 4.9,
+        "review": "Incredible game! Loved every minute of it."
+    },
+    {
+        "gameId": 21,
+        "rating": 3.1,
+        "review": "Mediocre game. Not worth the hype."
+    },
+    {
+        "gameId": 22,
+        "rating": 4.4,
+        "review": "Fun game. Would recommend."
+    },
+    {
+        "gameId": 23,
+        "rating": 4.7,
+        "review": "Fantastic game! Worth every penny."
+    },
+    {
+        "gameId": 24,
+        "rating": 4.0,
+        "review": "Good game. Enjoyed the storyline."
+    }
+]
